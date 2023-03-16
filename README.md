@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sakshi Gandhi</h1>
 <h3>A passionate frontend developer!</h3>
 
-- 📫 How to reach me **sakshi4feb@gmail.com**
+📫 How to reach me **sakshi4feb@gmail.com**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
