@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi Gandhi</h1>
+<h1>Hi 👋, I'm Sakshi Gandhi</h1>
 <h3>A passionate frontend developer</h3>
 
 - 📫 How to reach me **sakshi4feb@gmail.com**
