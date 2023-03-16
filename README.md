@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi4feb&show_icons=true&locale=en" alt="sakshi4feb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi4feb&" alt="sakshi4feb" /></p>
+
+<a href="https://www.linkedin.com/in/sakshi-gandhi-4feb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
