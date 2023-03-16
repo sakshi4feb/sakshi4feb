@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi4feb&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sakshi4feb" /></p>
 
